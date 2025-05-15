@@ -4,11 +4,11 @@ This project is a React.js application that provides a user-friendly interface f
 
 ## Live Demo
 
-[Live Demo Link](https://balancee-booking.vercel.app/) (Example link - you'll need to replace with your actual deployed link)
+[Live Demo Link](https://balancee-booking.vercel.app/)
 
 ## GitHub Repository
 
-[GitHub Repository Link](https://github.com/yourusername/balancee-booking) (Example link - you'll need to replace with your actual repository link)
+[GitHub Repository Link](https://github.com/Richiey1/booking-app)
 
 ## Features
 
