@@ -1,13 +1,13 @@
 import React, { useState } from "react";
-import { useBookingState } from "../src/hooks/useBookingState";
-import { bookAppointment } from "../src/api/bookingService";
+import { useBookingState } from "./hooks/useBookingState";
+import { bookAppointment } from "./api/bookingService";
 import CarTypeSelector from "./components/carTypeSelector";
-import ServiceSelector from "../src/components/ServiceSelector";
-import StationList from "../src/components/StationList";
-import TimeSlotPicker from "../src/components/TimeSlotPicker";
-import BookingSuccess from "../src/components/BookingSuccess";
-import ThemeToggle from "../src/components/ThemeToggle";
-import { fetchCarTypes, fetchRepairServices } from "../src/api/bookingService";
+import ServiceSelector from "./components/ServiceSelector";
+import StationList from "./components/StationList";
+import TimeSlotPicker from "./components/TimeSlotPicker";
+import BookingSuccess from "./components/BookingSuccess";
+import ThemeToggle from "./components/ThemeToggle";
+import { fetchCarTypes, fetchRepairServices } from "./api/bookingService";
 
 
 
