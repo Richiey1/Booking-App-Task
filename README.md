@@ -124,7 +124,9 @@ I'm a frontend developer with experience in building responsive and user-friendl
 
 A smart booking interface for Balanceè car repair services built with React.js and Tailwind CSS. This application allows users to select their car type and repair service, view nearby stations offering those services, choose available time slots, and book appointments.
 
-![Balanceè Booking Interface Screenshot](screenshot.png)
+![Balanceè Booking Interface Screenshot](![image](https://github.com/user-attachments/assets/ba6bfcaa-787a-4c22-b900-979e1f657fb3)
+![image](https://github.com/user-attachments/assets/ce6d8e90-9565-44df-bcbe-0ed258e616c4)
+)
 
 ## Features
 
@@ -159,9 +161,13 @@ A smart booking interface for Balanceè car repair services built with React.js 
 ## Screenshots
 
 ### Mobile View
-![Mobile View](mobile-screenshot.png)
+![Mobile View](![photo_2025-05-16_11-34-40](https://github.com/user-attachments/assets/5cfb04c3-aa1a-4e13-8544-059b0dfe2b75)
+![photo_2025-05-16_11-35-12](https://github.com/user-attachments/assets/d93e0526-c4d7-4fec-8b08-12e253caf8b7)
+)
 
 ### Desktop View
-![Desktop View](desktop-screenshot.png)
+![Desktop View](![image](https://github.com/user-attachments/assets/cf743ed0-8ccc-499c-b8a7-05e8cc217e8a)
+![image](https://github.com/user-attachments/assets/853290f2-563b-4f03-beaa-9db948dd5e83)
+)
 
 Thank you for reviewing my submission!
