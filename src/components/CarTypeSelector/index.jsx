@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { fetchCarTypes } from "../api/bookingService";
+import { fetchCarTypes } from "../../api/bookingService";
 
 const CarTypeSelector = ({ state, setCarType, setLoading, setData }) => {
   useEffect(() => {
