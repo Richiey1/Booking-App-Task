@@ -4,7 +4,7 @@ This project is a React.js application that provides a user-friendly interface f
 
 ## Live Demo
 
-[Live Demo Link](https://balancee-booking.vercel.app/)
+[Live Demo Link](https://booking-app-task.vercel.app/)
 
 ## GitHub Repository
 
@@ -117,5 +117,51 @@ I'm a frontend developer with experience in building responsive and user-friendl
 - [LinkedIn](https://www.linkedin.com/in/ojo-damilare-2b34ba109/)
 - [GitHub](https://github.com/Richiey1)
 - [Portfolio](https://web-2-portfolio-website-euge.vercel.app/)
+
+- # Balanceè Smart Booking Interface
+
+## Overview
+
+A smart booking interface for Balanceè car repair services built with React.js and Tailwind CSS. This application allows users to select their car type and repair service, view nearby stations offering those services, choose available time slots, and book appointments.
+
+![Balanceè Booking Interface Screenshot](screenshot.png)
+
+## Features
+
+- **Car Type Selection**: Choose from various car types (Sedan, SUV, Truck, etc.)
+- **Service Selection**: Select from different repair services with pricing and duration information
+- **Station Finder**: View nearby stations that support the selected car type and service
+- **Time Slot Booking**: See available time slots and book appointments
+- **Responsive Design**: Works seamlessly on both mobile and desktop
+- **Loading States**: Visual feedback while fetching data
+- **Empty States**: Clear messaging when no matching stations or time slots are available
+- **Success Confirmation**: Confirmation message with booking details
+
+## Tech Stack
+
+- React.js with Hooks
+- Tailwind CSS for styling
+- Context API & useReducer for state management
+- Mock API for simulating backend services
+
+## Demo 
+
+[View Live Demo](https://booking-app-task.vercel.app/)
+
+## User Flow
+
+1. **Select Car Type**: Choose your vehicle type
+2. **Select Service**: Browse available repair services 
+3. **Choose Station**: View and select from eligible repair stations
+4. **Pick Time Slot**: Select from available appointment times
+5. **Book**: Confirm your appointment
+
+## Screenshots
+
+### Mobile View
+![Mobile View](mobile-screenshot.png)
+
+### Desktop View
+![Desktop View](desktop-screenshot.png)
 
 Thank you for reviewing my submission!
