@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useBookingState } from "./hooks/useBookingState";
 import { bookAppointment } from "./api/bookingService";
-import CarTypeSelector from "./components/carTypeSelector";
+import CarTypeSelector from "./components/CarTypeSelector/index";
 import ServiceSelector from "./components/ServiceSelector";
 import StationList from "./components/StationList";
 import TimeSlotPicker from "./components/TimeSlotPicker";
